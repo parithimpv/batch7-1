@@ -5,3 +5,6 @@
      apt:
       name: apache
       service: latest
+     service:
+      name: apache
+      service: present
